@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/build/static/css/main.d1b05096.chunk.css",
+    "main.js": "/build/static/js/main.084618c8.chunk.js",
+    "main.js.map": "/build/static/js/main.084618c8.chunk.js.map",
+    "runtime-main.js": "/build/static/js/runtime-main.72ede209.js",
+    "runtime-main.js.map": "/build/static/js/runtime-main.72ede209.js.map",
+    "static/js/2.5a829f1b.chunk.js": "/build/static/js/2.5a829f1b.chunk.js",
+    "static/js/2.5a829f1b.chunk.js.map": "/build/static/js/2.5a829f1b.chunk.js.map",
+    "index.html": "/build/index.html",
+    "precache-manifest.31f83c9a1817027f68efa5c27d466dfc.js": "/build/precache-manifest.31f83c9a1817027f68efa5c27d466dfc.js",
+    "service-worker.js": "/build/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/build/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.5a829f1b.chunk.js.LICENSE": "/build/static/js/2.5a829f1b.chunk.js.LICENSE",
+    "static/media/pathfinder-logo-png-2.png": "/build/static/media/pathfinder-logo-png-2.575f13d4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72ede209.js",
+    "static/js/2.5a829f1b.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.084618c8.chunk.js"
+  ]
+}
